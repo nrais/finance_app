@@ -1,3 +1,6 @@
 # flutter_projectatm
 
-<img src="assets/images/ss1.png">
+# Home screen
+
+<img src="assets/images/ss1.png" width="220px">
+<img src="assets/images/ss2.png" width="220px">
